@@ -5,7 +5,7 @@ Este repositorio contiene ejercicios de lógica de programación en Java. Está 
 
 ## Instrucciones de Ejecución
 1. Clonar el repositorio:
-   git clone https://github.com/tu-usuario/LogicaProgramacion-Java.git
+   git clone https://github.com/herr-nandezp/LogicaProgramacion-Java.git
 2. Navegar al directorio del proyecto:
    cd LogicaProgramacion-Java
 3. Compilar y ejecutar un ejercicio específico:
